@@ -37,11 +37,8 @@
 
 <br />
 <br />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-
-<br />
-
-<iframe src="https://api.badgr.io/public/assertions/4sjh-f7AQ4Sk755AgRpG0w?embedVersion=1&amp;embedWidth=330&amp;embedHeight=186&amp;identity__email=dericklyle%40yahoo.com" style="width: 330px; height: 186px; border: 0px none;" title="Badge: UCF Coding Boot Camp (Full-Stack Web Development)[Online]"></iframe>
 
 <br />
 <br />
