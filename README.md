@@ -14,8 +14,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/121px-Unity_2021.svg.png"/>
-<img align="left" alt="Unity" width="26px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/ui/ui/unity-logo-darkmode.min.svg"/>
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
+<img align="left" alt="Unity" width="26px" src="https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s88-c-k-c0x00ffffff-no-rj"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
