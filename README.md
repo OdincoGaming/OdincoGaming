@@ -1,10 +1,10 @@
 ### Howdy howdy! 👋
 
 ## Welcome to my GitHub
-- 🔭 I’m a Unity Courseware Developer
+- 🔭 I’m a Unity Developer
 - 🌱 I’m currently learning new ways to interact with the web using Unity
 - 👯 I’m always looking to collaborate with other developers
-- 🥅 2022 Goals: The Flower Project
+- 🥅 2024 Goals: Make more games!
 - ⚡ Fun fact: <i>I also trade stocks with Python<i/>
   
 ### Connect with me:
